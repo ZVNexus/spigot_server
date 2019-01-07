@@ -1,0 +1,43 @@
+# Use a YAML editor like NotepadPlusPlus to edit this file.  
+# After editing, back up your changes before reloading the server in case you made a syntax error.  
+# Use ampersands (&) for formatting codes, which are documented here: http://minecraft.gamepedia.com/Formatting_codes
+Messages:
+  AutoSortHelp:
+    Text: Options are /AutoSort Chests and /AutoSort Inventory.
+  NoPermissionForFeature:
+    Text: You don't have permission to use that feature.
+  ChestSortEnabled:
+    Text: Now auto-sorting any chests you use.
+  ChestSortDisabled:
+    Text: Stopped auto-sorting chests you use.
+  InventorySortEnabled:
+    Text: Now auto-sorting your personal inventory.
+  InventorySortDisabled:
+    Text: Stopped auto-sorting your personal inventory.
+  AutoRefillEducation:
+    Text: AutomaticInventory(AI) will auto-replace broken tools and depleted hotbar
+      stacks from your inventory.
+  InventorySortEducation:
+    Text: AutomaticInventory(AI) will keep your inventory sorted.  Use /AutoSort to
+      disable.
+  ChestSortEducation3:
+    Text: 'AutomaticInventory(AI) will sort the contents of chests you access.  Use
+      /AutoSort to toggle.  TIP: Want some chests sorted but not others?  Chests with
+      names including an asterisk (*) won''t auto-sort.  You can rename any chest
+      using an anvil.'
+  SuccessfulDeposit2:
+    Text: Deposited {0} items.
+  FailedDepositNoMatch:
+    Text: No items deposited - none of your inventory items match items in that chest.
+  FailedDepositChestFull2:
+    Text: That chest is full.
+  SuccessfulDepositAll2:
+    Text: Deposited {0} items into nearby chests.
+  ChestLidBlocked:
+    Text: That chest isn't accessible.
+  DepositAllAdvertisement:
+    Text: 'TIP: Instantly deposit all items from your inventory into all the right
+      nearby boxes with /DepositAll!'
+  QuickDepositAdvertisement3:
+    Text: Want to deposit quickly from your hotbar?  Just pick a specific chest and
+      sneak (hold shift) while hitting it.
