@@ -1,202 +1,202 @@
-[17:17:15] [main/INFO]: Loaded 0 recipes
-[17:17:15] [Server thread/INFO]: Starting minecraft server version 1.13.2
-[17:17:15] [Server thread/INFO]: Loading properties
-[17:17:15] [Server thread/INFO]: Default game type: SURVIVAL
-[17:17:16] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-518206a-a5b9c7b (MC: 1.13.2) (Implementing API version 1.13.2-R0.1-SNAPSHOT)
-[17:17:16] [Server thread/INFO]: Debug logging is disabled
-[17:17:16] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[17:17:16] [Server thread/INFO]: Using 4 threads for Netty based IO
-[17:17:16] [Server thread/INFO]: Generating keypair
-[17:17:16] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:17:16] [Server thread/INFO]: Using default channel type
-[17:17:18] [Server thread/INFO]: [ClearLag] Loading ClearLag v2.9.7
-[17:17:18] [Server thread/INFO]: [AutomaticInventory] Loading AutomaticInventory v2.8.4
-[17:17:18] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.9;caf0ad9
-[17:17:18] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.2.2-SNAPSHOT;8eeab68
-[17:17:18] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
-[17:17:18] [Server thread/INFO]: Preparing level "world"
-[17:17:18] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
-[17:17:19] [Server thread/INFO]: Loaded 524 recipes
-[17:17:19] [Server thread/INFO]: -------- World Settings For [world] --------
-[17:17:19] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[17:17:19] [Server thread/INFO]: Item Merge Radius: 2.5
-[17:17:19] [Server thread/INFO]: Item Despawn Rate: 6000
-[17:17:19] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[17:17:19] [Server thread/INFO]: View Distance: 10
-[17:17:19] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[17:17:19] [Server thread/INFO]: Experience Merge Radius: 3.0
-[17:17:19] [Server thread/INFO]: Mob Spawn Range: 6
-[17:17:19] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
-[17:17:19] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[17:17:19] [Server thread/INFO]: Cane Growth Modifier: 100%
-[17:17:19] [Server thread/INFO]: Melon Growth Modifier: 100%
-[17:17:19] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[17:17:19] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[17:17:19] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[17:17:19] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[17:17:19] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[17:17:19] [Server thread/INFO]: Potato Growth Modifier: 100%
-[17:17:19] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[17:17:19] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[17:17:19] [Server thread/INFO]: Vine Growth Modifier: 100%
-[17:17:19] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[17:17:19] [Server thread/INFO]: Random Lighting Updates: false
-[17:17:19] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[17:17:19] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[17:17:19] [Server thread/INFO]: Max TNT Explosions: 100
-[17:17:19] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[17:17:19] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[17:17:19] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
-[17:17:20] [Server thread/INFO]: -------- World Settings For [world_nether] --------
-[17:17:20] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[17:17:20] [Server thread/INFO]: Item Merge Radius: 2.5
-[17:17:20] [Server thread/INFO]: Item Despawn Rate: 6000
-[17:17:20] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[17:17:20] [Server thread/INFO]: View Distance: 10
-[17:17:20] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[17:17:20] [Server thread/INFO]: Experience Merge Radius: 3.0
-[17:17:20] [Server thread/INFO]: Mob Spawn Range: 6
-[17:17:20] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
-[17:17:20] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[17:17:20] [Server thread/INFO]: Cane Growth Modifier: 100%
-[17:17:20] [Server thread/INFO]: Melon Growth Modifier: 100%
-[17:17:20] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[17:17:20] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[17:17:20] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[17:17:20] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[17:17:20] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[17:17:20] [Server thread/INFO]: Potato Growth Modifier: 100%
-[17:17:20] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[17:17:20] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[17:17:20] [Server thread/INFO]: Vine Growth Modifier: 100%
-[17:17:20] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[17:17:20] [Server thread/INFO]: Random Lighting Updates: false
-[17:17:20] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[17:17:20] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[17:17:20] [Server thread/INFO]: Max TNT Explosions: 100
-[17:17:20] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[17:17:20] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[17:17:20] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
-[17:17:20] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
-[17:17:20] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[17:17:20] [Server thread/INFO]: Item Merge Radius: 2.5
-[17:17:20] [Server thread/INFO]: Item Despawn Rate: 6000
-[17:17:20] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[17:17:20] [Server thread/INFO]: View Distance: 10
-[17:17:20] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[17:17:20] [Server thread/INFO]: Experience Merge Radius: 3.0
-[17:17:20] [Server thread/INFO]: Mob Spawn Range: 6
-[17:17:20] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
-[17:17:20] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[17:17:20] [Server thread/INFO]: Cane Growth Modifier: 100%
-[17:17:20] [Server thread/INFO]: Melon Growth Modifier: 100%
-[17:17:20] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[17:17:20] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[17:17:20] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[17:17:20] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[17:17:20] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[17:17:20] [Server thread/INFO]: Potato Growth Modifier: 100%
-[17:17:20] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[17:17:20] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[17:17:20] [Server thread/INFO]: Vine Growth Modifier: 100%
-[17:17:20] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[17:17:20] [Server thread/INFO]: Random Lighting Updates: false
-[17:17:20] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[17:17:20] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[17:17:20] [Server thread/INFO]: Max TNT Explosions: 100
-[17:17:20] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[17:17:20] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[17:17:20] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
-[17:17:20] [Server thread/INFO]: Preparing start region for level minecraft:the_end (Seed: -5154430999240679814)
-[17:17:20] [Server thread/INFO]: Preparing spawn area: 4%
-[17:17:20] [Server thread/INFO]: Preparing spawn area: 8%
-[17:17:20] [Server thread/INFO]: Preparing spawn area: 12%
-[17:17:20] [Server thread/INFO]: Preparing spawn area: 16%
-[17:17:20] [Server thread/INFO]: Preparing spawn area: 20%
-[17:17:20] [Server thread/INFO]: Preparing spawn area: 24%
-[17:17:20] [Server thread/INFO]: Preparing spawn area: 28%
-[17:17:20] [Server thread/INFO]: Preparing spawn area: 32%
-[17:17:20] [Server thread/INFO]: Preparing spawn area: 36%
-[17:17:20] [Server thread/INFO]: Preparing spawn area: 40%
-[17:17:20] [Server thread/INFO]: Preparing spawn area: 44%
-[17:17:20] [Server thread/INFO]: Preparing spawn area: 48%
-[17:17:20] [Server thread/INFO]: Preparing spawn area: 52%
-[17:17:20] [Server thread/INFO]: Preparing spawn area: 56%
-[17:17:20] [Server thread/INFO]: Preparing spawn area: 60%
-[17:17:20] [Server thread/INFO]: Preparing spawn area: 64%
-[17:17:20] [Server thread/INFO]: Preparing spawn area: 68%
-[17:17:20] [Server thread/INFO]: Preparing spawn area: 72%
-[17:17:20] [Server thread/INFO]: Preparing spawn area: 76%
-[17:17:20] [Server thread/INFO]: Preparing spawn area: 80%
-[17:17:20] [Server thread/INFO]: Preparing spawn area: 84%
-[17:17:20] [Server thread/INFO]: Preparing spawn area: 88%
-[17:17:20] [Server thread/INFO]: Preparing spawn area: 92%
-[17:17:20] [Server thread/INFO]: Preparing spawn area: 96%
-[17:17:20] [Server thread/INFO]: Preparing spawn area: 100%
-[17:17:20] [Server thread/INFO]: Preparing start region for level minecraft:the_nether (Seed: -5154430999240679814)
-[17:17:20] [Server thread/INFO]: Preparing spawn area: 4%
-[17:17:20] [Server thread/INFO]: Preparing spawn area: 8%
-[17:17:20] [Server thread/INFO]: Preparing spawn area: 12%
-[17:17:20] [Server thread/INFO]: Preparing spawn area: 16%
-[17:17:20] [Server thread/INFO]: Preparing spawn area: 20%
-[17:17:20] [Server thread/INFO]: Preparing spawn area: 24%
-[17:17:20] [Server thread/INFO]: Preparing spawn area: 28%
-[17:17:20] [Server thread/INFO]: Preparing spawn area: 32%
-[17:17:20] [Server thread/INFO]: Preparing spawn area: 36%
-[17:17:20] [Server thread/INFO]: Preparing spawn area: 40%
-[17:17:20] [Server thread/INFO]: Preparing spawn area: 44%
-[17:17:20] [Server thread/INFO]: Preparing spawn area: 48%
-[17:17:20] [Server thread/INFO]: Preparing spawn area: 52%
-[17:17:20] [Server thread/INFO]: Preparing spawn area: 56%
-[17:17:20] [Server thread/INFO]: Preparing spawn area: 60%
-[17:17:20] [Server thread/INFO]: Preparing spawn area: 64%
-[17:17:20] [Server thread/INFO]: Preparing spawn area: 68%
-[17:17:21] [Server thread/INFO]: Preparing spawn area: 72%
-[17:17:21] [Server thread/INFO]: Preparing spawn area: 76%
-[17:17:21] [Server thread/INFO]: Preparing spawn area: 80%
-[17:17:21] [Server thread/INFO]: Preparing spawn area: 84%
-[17:17:21] [Server thread/INFO]: Preparing spawn area: 88%
-[17:17:21] [Server thread/INFO]: Preparing spawn area: 92%
-[17:17:21] [Server thread/INFO]: Preparing spawn area: 96%
-[17:17:21] [Server thread/INFO]: Preparing spawn area: 100%
-[17:17:21] [Server thread/INFO]: Preparing start region for level minecraft:overworld (Seed: -5154430999240679814)
-[17:17:21] [Server thread/INFO]: Preparing spawn area: 4%
-[17:17:21] [Server thread/INFO]: Preparing spawn area: 8%
-[17:17:21] [Server thread/INFO]: Preparing spawn area: 12%
-[17:17:21] [Server thread/INFO]: Preparing spawn area: 16%
-[17:17:21] [Server thread/INFO]: Preparing spawn area: 20%
-[17:17:21] [Server thread/INFO]: Preparing spawn area: 24%
-[17:17:21] [Server thread/INFO]: Preparing spawn area: 28%
-[17:17:21] [Server thread/INFO]: Preparing spawn area: 32%
-[17:17:21] [Server thread/INFO]: Preparing spawn area: 36%
-[17:17:21] [Server thread/INFO]: Preparing spawn area: 40%
-[17:17:21] [Server thread/INFO]: Preparing spawn area: 44%
-[17:17:21] [Server thread/INFO]: Preparing spawn area: 48%
-[17:17:21] [Server thread/INFO]: Preparing spawn area: 52%
-[17:17:21] [Server thread/INFO]: Preparing spawn area: 56%
-[17:17:21] [Server thread/INFO]: Preparing spawn area: 60%
-[17:17:21] [Server thread/INFO]: Preparing spawn area: 64%
-[17:17:21] [Server thread/INFO]: Preparing spawn area: 68%
-[17:17:21] [Server thread/INFO]: Preparing spawn area: 72%
-[17:17:21] [Server thread/INFO]: Preparing spawn area: 76%
-[17:17:21] [Server thread/INFO]: Preparing spawn area: 80%
-[17:17:21] [Server thread/INFO]: Preparing spawn area: 84%
-[17:17:21] [Server thread/INFO]: Preparing spawn area: 88%
-[17:17:21] [Server thread/INFO]: Preparing spawn area: 92%
-[17:17:22] [Server thread/INFO]: Preparing spawn area: 96%
-[17:17:22] [Server thread/INFO]: Preparing spawn area: 100%
-[17:17:22] [Server thread/INFO]: Time elapsed: 1939 ms
-[17:17:22] [Server thread/INFO]: [ClearLag] Enabling ClearLag v2.9.7
-[17:17:22] [Server thread/INFO]: [ClearLag] Loading modules...
-[17:17:22] [Server thread/INFO]: [ClearLag] Modules enabed, loading config values
-[17:17:22] [Server thread/INFO]: [ClearLag] Modules have been loaded!
-[17:17:22] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
-[17:17:22] [Thread-8/INFO]: [ClearLag] Checking for updates compatible with your bukkit version [1.13]...
-[17:17:22] [Server thread/INFO]: [AutomaticInventory] Enabling AutomaticInventory v2.8.4
-[17:17:22] [Server thread/INFO]: [AutomaticInventory] AutomaticInventory enabled.
-[17:17:22] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.9;caf0ad9
-[17:17:22] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
-[17:17:22] [Server thread/ERROR]: Error occurred while enabling WorldEdit v6.1.9;caf0ad9 (Is it up to date?)
+[11:36:24] [Server thread/INFO]: Starting minecraft server version 1.13.2
+[11:36:24] [Server thread/INFO]: Loading properties
+[11:36:24] [Server thread/INFO]: Default game type: SURVIVAL
+[11:36:24] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-518206a-a5b9c7b (MC: 1.13.2) (Implementing API version 1.13.2-R0.1-SNAPSHOT)
+[11:36:24] [Server thread/INFO]: Debug logging is disabled
+[11:36:24] [Server thread/INFO]: Using 4 threads for Netty based IO
+[11:36:24] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[11:36:24] [Server thread/INFO]: Generating keypair
+[11:36:24] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:36:24] [Server thread/INFO]: Using default channel type
+[11:36:27] [Server thread/INFO]: [ClearLag] Loading ClearLag v2.9.7
+[11:36:27] [Server thread/INFO]: [AutomaticInventory] Loading AutomaticInventory v2.8.4
+[11:36:27] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.9;caf0ad9
+[11:36:27] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.2.2-SNAPSHOT;8eeab68
+[11:36:27] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[11:36:27] [Server thread/INFO]: Preparing level "world"
+[11:36:27] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[11:36:28] [Server thread/INFO]: Loaded 524 recipes
+[11:36:28] [Server thread/INFO]: -------- World Settings For [world] --------
+[11:36:28] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:36:28] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:36:28] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:36:28] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[11:36:28] [Server thread/INFO]: View Distance: 10
+[11:36:28] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:36:28] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:36:28] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[11:36:28] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[11:36:28] [Server thread/INFO]: Max TNT Explosions: 100
+[11:36:28] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[11:36:28] [Server thread/INFO]: Random Lighting Updates: false
+[11:36:28] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:36:28] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[11:36:29] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:36:29] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:36:29] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:36:29] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:36:29] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:36:29] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:36:29] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[11:36:29] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[11:36:29] [Server thread/INFO]: Potato Growth Modifier: 100%
+[11:36:29] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:36:29] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:36:29] [Server thread/INFO]: Vine Growth Modifier: 100%
+[11:36:29] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[11:36:29] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:36:29] [Server thread/INFO]: Mob Spawn Range: 6
+[11:36:29] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[11:36:29] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:36:29] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:36:29] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:36:29] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[11:36:29] [Server thread/INFO]: View Distance: 10
+[11:36:29] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:36:29] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:36:29] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[11:36:29] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[11:36:29] [Server thread/INFO]: Max TNT Explosions: 100
+[11:36:29] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[11:36:29] [Server thread/INFO]: Random Lighting Updates: false
+[11:36:29] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:36:29] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[11:36:29] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:36:29] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:36:29] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:36:29] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:36:29] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:36:29] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:36:29] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[11:36:29] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[11:36:29] [Server thread/INFO]: Potato Growth Modifier: 100%
+[11:36:29] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:36:29] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:36:29] [Server thread/INFO]: Vine Growth Modifier: 100%
+[11:36:29] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[11:36:29] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:36:29] [Server thread/INFO]: Mob Spawn Range: 6
+[11:36:29] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[11:36:29] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:36:29] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:36:29] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:36:29] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[11:36:29] [Server thread/INFO]: View Distance: 10
+[11:36:29] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:36:29] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:36:29] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[11:36:29] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[11:36:29] [Server thread/INFO]: Max TNT Explosions: 100
+[11:36:29] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[11:36:29] [Server thread/INFO]: Random Lighting Updates: false
+[11:36:29] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:36:29] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[11:36:29] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:36:29] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:36:29] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:36:29] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:36:29] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:36:29] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:36:29] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[11:36:29] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[11:36:29] [Server thread/INFO]: Potato Growth Modifier: 100%
+[11:36:29] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:36:29] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:36:29] [Server thread/INFO]: Vine Growth Modifier: 100%
+[11:36:29] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[11:36:29] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:36:29] [Server thread/INFO]: Mob Spawn Range: 6
+[11:36:29] [Server thread/INFO]: Preparing start region for level minecraft:the_end (Seed: -5154430999240679814)
+[11:36:29] [Server thread/INFO]: Preparing spawn area: 4%
+[11:36:29] [Server thread/INFO]: Preparing spawn area: 8%
+[11:36:29] [Server thread/INFO]: Preparing spawn area: 12%
+[11:36:29] [Server thread/INFO]: Preparing spawn area: 16%
+[11:36:29] [Server thread/INFO]: Preparing spawn area: 20%
+[11:36:29] [Server thread/INFO]: Preparing spawn area: 24%
+[11:36:29] [Server thread/INFO]: Preparing spawn area: 28%
+[11:36:29] [Server thread/INFO]: Preparing spawn area: 32%
+[11:36:29] [Server thread/INFO]: Preparing spawn area: 36%
+[11:36:29] [Server thread/INFO]: Preparing spawn area: 40%
+[11:36:29] [Server thread/INFO]: Preparing spawn area: 44%
+[11:36:29] [Server thread/INFO]: Preparing spawn area: 48%
+[11:36:29] [Server thread/INFO]: Preparing spawn area: 52%
+[11:36:29] [Server thread/INFO]: Preparing spawn area: 56%
+[11:36:29] [Server thread/INFO]: Preparing spawn area: 60%
+[11:36:29] [Server thread/INFO]: Preparing spawn area: 64%
+[11:36:29] [Server thread/INFO]: Preparing spawn area: 68%
+[11:36:29] [Server thread/INFO]: Preparing spawn area: 72%
+[11:36:29] [Server thread/INFO]: Preparing spawn area: 76%
+[11:36:29] [Server thread/INFO]: Preparing spawn area: 80%
+[11:36:29] [Server thread/INFO]: Preparing spawn area: 84%
+[11:36:29] [Server thread/INFO]: Preparing spawn area: 88%
+[11:36:29] [Server thread/INFO]: Preparing spawn area: 92%
+[11:36:29] [Server thread/INFO]: Preparing spawn area: 96%
+[11:36:29] [Server thread/INFO]: Preparing spawn area: 100%
+[11:36:29] [Server thread/INFO]: Preparing start region for level minecraft:overworld (Seed: -5154430999240679814)
+[11:36:29] [Server thread/INFO]: Preparing spawn area: 4%
+[11:36:29] [Server thread/INFO]: Preparing spawn area: 8%
+[11:36:29] [Server thread/INFO]: Preparing spawn area: 12%
+[11:36:29] [Server thread/INFO]: Preparing spawn area: 16%
+[11:36:29] [Server thread/INFO]: Preparing spawn area: 20%
+[11:36:29] [Server thread/INFO]: Preparing spawn area: 24%
+[11:36:29] [Server thread/INFO]: Preparing spawn area: 28%
+[11:36:30] [Server thread/INFO]: Preparing spawn area: 32%
+[11:36:30] [Server thread/INFO]: Preparing spawn area: 36%
+[11:36:30] [Server thread/INFO]: Preparing spawn area: 40%
+[11:36:30] [Server thread/INFO]: Preparing spawn area: 44%
+[11:36:30] [Server thread/INFO]: Preparing spawn area: 48%
+[11:36:30] [Server thread/INFO]: Preparing spawn area: 52%
+[11:36:30] [Server thread/INFO]: Preparing spawn area: 56%
+[11:36:30] [Server thread/INFO]: Preparing spawn area: 60%
+[11:36:30] [Server thread/INFO]: Preparing spawn area: 64%
+[11:36:30] [Server thread/INFO]: Preparing spawn area: 68%
+[11:36:30] [Server thread/INFO]: Preparing spawn area: 72%
+[11:36:30] [Server thread/INFO]: Preparing spawn area: 76%
+[11:36:30] [Server thread/INFO]: Preparing spawn area: 80%
+[11:36:30] [Server thread/INFO]: Preparing spawn area: 84%
+[11:36:30] [Server thread/INFO]: Preparing spawn area: 88%
+[11:36:30] [Server thread/INFO]: Preparing spawn area: 92%
+[11:36:30] [Server thread/INFO]: Preparing spawn area: 96%
+[11:36:30] [Server thread/INFO]: Preparing spawn area: 100%
+[11:36:30] [Server thread/INFO]: Preparing start region for level minecraft:the_nether (Seed: -5154430999240679814)
+[11:36:30] [Server thread/INFO]: Preparing spawn area: 4%
+[11:36:30] [Server thread/INFO]: Preparing spawn area: 8%
+[11:36:30] [Server thread/INFO]: Preparing spawn area: 12%
+[11:36:30] [Server thread/INFO]: Preparing spawn area: 16%
+[11:36:30] [Server thread/INFO]: Preparing spawn area: 20%
+[11:36:30] [Server thread/INFO]: Preparing spawn area: 24%
+[11:36:30] [Server thread/INFO]: Preparing spawn area: 28%
+[11:36:30] [Server thread/INFO]: Preparing spawn area: 32%
+[11:36:30] [Server thread/INFO]: Preparing spawn area: 36%
+[11:36:30] [Server thread/INFO]: Preparing spawn area: 40%
+[11:36:30] [Server thread/INFO]: Preparing spawn area: 44%
+[11:36:30] [Server thread/INFO]: Preparing spawn area: 48%
+[11:36:30] [Server thread/INFO]: Preparing spawn area: 52%
+[11:36:30] [Server thread/INFO]: Preparing spawn area: 56%
+[11:36:31] [Server thread/INFO]: Preparing spawn area: 60%
+[11:36:31] [Server thread/INFO]: Preparing spawn area: 64%
+[11:36:31] [Server thread/INFO]: Preparing spawn area: 68%
+[11:36:31] [Server thread/INFO]: Preparing spawn area: 72%
+[11:36:31] [Server thread/INFO]: Preparing spawn area: 76%
+[11:36:31] [Server thread/INFO]: Preparing spawn area: 80%
+[11:36:31] [Server thread/INFO]: Preparing spawn area: 84%
+[11:36:31] [Server thread/INFO]: Preparing spawn area: 88%
+[11:36:31] [Server thread/INFO]: Preparing spawn area: 92%
+[11:36:31] [Server thread/INFO]: Preparing spawn area: 96%
+[11:36:31] [Server thread/INFO]: Preparing spawn area: 100%
+[11:36:31] [Server thread/INFO]: Time elapsed: 2063 ms
+[11:36:31] [Server thread/INFO]: [ClearLag] Enabling ClearLag v2.9.7
+[11:36:31] [Server thread/INFO]: [ClearLag] Loading modules...
+[11:36:31] [Server thread/INFO]: [ClearLag] Modules enabed, loading config values
+[11:36:31] [Server thread/INFO]: [ClearLag] Modules have been loaded!
+[11:36:31] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
+[11:36:31] [Server thread/INFO]: [AutomaticInventory] Enabling AutomaticInventory v2.8.4
+[11:36:31] [Thread-8/INFO]: [ClearLag] Checking for updates compatible with your bukkit version [1.13]...
+[11:36:31] [Server thread/INFO]: [AutomaticInventory] AutomaticInventory enabled.
+[11:36:31] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.9;caf0ad9
+[11:36:31] [Thread-8/INFO]: [ClearLag] No updates found!
+[11:36:31] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[11:36:31] [Server thread/ERROR]: Error occurred while enabling WorldEdit v6.1.9;caf0ad9 (Is it up to date?)
 java.lang.IllegalArgumentException: Channel must contain : separator (attempted to use WECUI)
 	at org.bukkit.plugin.messaging.StandardMessenger.validateAndCorrectChannel(StandardMessenger.java:474) ~[spigot-1.13.2.jar:git-Spigot-518206a-a5b9c7b]
 	at org.bukkit.plugin.messaging.StandardMessenger.registerIncomingPluginChannel(StandardMessenger.java:209) ~[spigot-1.13.2.jar:git-Spigot-518206a-a5b9c7b]
@@ -212,62 +212,478 @@ java.lang.IllegalArgumentException: Channel must contain : separator (attempted 
 	at net.minecraft.server.v1_13_R2.DedicatedServer.init(DedicatedServer.java:294) [spigot-1.13.2.jar:git-Spigot-518206a-a5b9c7b]
 	at net.minecraft.server.v1_13_R2.MinecraftServer.run(MinecraftServer.java:697) [spigot-1.13.2.jar:git-Spigot-518206a-a5b9c7b]
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
-[17:17:22] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.2.2-SNAPSHOT;8eeab68
-[17:17:23] [Thread-8/INFO]: [ClearLag] No updates found!
-[17:17:23] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
-[17:17:23] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
-[17:17:23] [Server thread/INFO]: [WorldGuard] (world) Lava fire is blocked.
-[17:17:23] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
-[17:17:23] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
-[17:17:23] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
-[17:17:23] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
-[17:17:23] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is blocked.
-[17:17:23] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
-[17:17:23] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
-[17:17:23] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
-[17:17:23] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
-[17:17:23] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is blocked.
-[17:17:23] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
-[17:17:23] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
-[17:17:23] [Server thread/INFO]: [WorldGuard] Loading region data...
-[17:17:23] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[17:17:23] [Server thread/INFO]: Done (4.589s)! For help, type "help"
-[17:18:12] [User Authenticator #1/INFO]: UUID of player ZVNexus is 19c65482-042b-4370-8483-d9010da8661b
-[17:18:13] [Server thread/INFO]: ZVNexus[/98.182.49.90:52022] logged in with entity id 215 at ([world]102.10478047311422, 92.0, -44.32202670057305)
-[17:24:04] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[17:24:44] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[17:25:04] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
-[17:31:44] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[17:32:24] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[17:32:44] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
-[17:39:24] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[17:40:04] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[17:40:24] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
-[17:47:05] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[17:47:45] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[17:48:05] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 18 Entities![m
-[17:54:46] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[17:55:27] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[17:55:47] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 6 Entities![m
-[18:02:27] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[18:03:07] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[18:03:27] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
-[18:10:07] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[18:10:31] [Server thread/INFO]: ZVNexus lost connection: Disconnected
-[18:10:31] [Server thread/INFO]: ZVNexus left the game
-[18:10:47] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[18:11:07] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
-[18:11:27] [Server thread/INFO]: Stopping the server
-[18:11:27] [Server thread/INFO]: Stopping server
-[18:11:27] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.2.2-SNAPSHOT;8eeab68
-[18:11:27] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
-[18:11:27] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1.9;caf0ad9
-[18:11:27] [Server thread/INFO]: [AutomaticInventory] Disabling AutomaticInventory v2.8.4
-[18:11:27] [Server thread/INFO]: [AutomaticInventory] AutomaticInventory disabled.
-[18:11:27] [Server thread/INFO]: [ClearLag] Disabling ClearLag v2.9.7
-[18:11:27] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
-[18:11:27] [Server thread/INFO]: Saving players
-[18:11:27] [Server thread/INFO]: Saving worlds
-[18:11:27] [Server thread/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end
-[18:11:27] [Server thread/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
-[18:11:27] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[11:36:31] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.2.2-SNAPSHOT;8eeab68
+[11:36:32] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[11:36:32] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[11:36:32] [Server thread/INFO]: [WorldGuard] (world) Lava fire is blocked.
+[11:36:32] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[11:36:32] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[11:36:32] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[11:36:32] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[11:36:32] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is blocked.
+[11:36:32] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[11:36:32] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[11:36:32] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[11:36:32] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[11:36:32] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is blocked.
+[11:36:32] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[11:36:32] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[11:36:32] [Server thread/INFO]: [WorldGuard] Loading region data...
+[11:36:32] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[11:36:32] [Server thread/INFO]: Done (5.187s)! For help, type "help"
+[11:38:22] [User Authenticator #1/INFO]: UUID of player ZVNexus is 19c65482-042b-4370-8483-d9010da8661b
+[11:38:23] [Server thread/INFO]: ZVNexus[/98.182.49.90:63989] logged in with entity id 223 at ([world]95.44473853204575, 92.0, -27.43703225683561)
+[11:43:13] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[11:43:53] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[11:44:13] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 3 Entities![m
+[11:50:54] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[11:51:34] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[11:51:54] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 12 Entities![m
+[11:58:34] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[11:59:14] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[11:59:34] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 5 Entities![m
+[12:06:15] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[12:06:55] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[12:07:15] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 6 Entities![m
+[12:09:52] [Server thread/INFO]: ZVNexus fell from a high place
+[12:13:55] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[12:14:35] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[12:14:55] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
+[12:19:05] [Server thread/INFO]: ZVNexus issued server command: /gamemode creative
+[12:19:05] [Server thread/INFO]: [ZVNexus: Set own game mode to Creative Mode]
+[12:21:33] [Server thread/INFO]: ZVNexus issued server command: /gamemode survival
+[12:21:33] [Server thread/INFO]: [ZVNexus: Set own game mode to Survival Mode]
+[12:21:36] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[12:22:16] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[12:22:36] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 8 Entities![m
+[12:29:16] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[12:29:56] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[12:30:16] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 6 Entities![m
+[12:31:53] [Server thread/INFO]: ZVNexus fell from a high place
+[12:32:17] [Server thread/INFO]: ZVNexus issued server command: /gamerule keepInventory
+[12:32:30] [Server thread/INFO]: ZVNexus issued server command: /gamemode creative
+[12:32:30] [Server thread/INFO]: [ZVNexus: Set own game mode to Creative Mode]
+[12:32:47] [Server thread/INFO]: ZVNexus issued server command: /gamemode survival
+[12:32:47] [Server thread/INFO]: [ZVNexus: Set own game mode to Survival Mode]
+[12:32:53] [Server thread/INFO]: ZVNexus issued server command: /gamemode creative
+[12:32:53] [Server thread/INFO]: [ZVNexus: Set own game mode to Creative Mode]
+[12:33:13] [Server thread/INFO]: ZVNexus issued server command: /gamemode survival
+[12:33:13] [Server thread/INFO]: [ZVNexus: Set own game mode to Survival Mode]
+[12:35:09] [Server thread/INFO]: ZVNexus issued server command: /gamemode creative
+[12:35:09] [Server thread/INFO]: [ZVNexus: Set own game mode to Creative Mode]
+[12:35:17] [Server thread/INFO]: ZVNexus issued server command: /gamemode survival
+[12:35:17] [Server thread/INFO]: [ZVNexus: Set own game mode to Survival Mode]
+[12:36:57] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[12:37:37] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[12:37:57] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[12:44:37] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[12:45:17] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[12:45:37] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
+[12:47:09] [Server thread/INFO]: ZVNexus issued server command: /gamemode creative
+[12:47:09] [Server thread/INFO]: [ZVNexus: Set own game mode to Creative Mode]
+[12:47:19] [Server thread/INFO]: ZVNexus issued server command: /gamemode survival
+[12:47:19] [Server thread/INFO]: [ZVNexus: Set own game mode to Survival Mode]
+[12:50:19] [User Authenticator #2/INFO]: UUID of player Multiports is 959b5ef0-622e-49b0-aac6-5a3e87f63e27
+[12:50:19] [Server thread/INFO]: Multiports[/68.9.212.176:65418] logged in with entity id 10645 at ([world]106.68018653654404, 92.0, -36.37346643913742)
+[12:52:18] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[12:52:58] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[12:53:18] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
+[13:00:00] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[13:00:08] [Server thread/INFO]: ZVNexus fell from a high place
+[13:00:40] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[13:01:00] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 18 Entities![m
+[13:07:03] [Server thread/INFO]: ZVNexus issued server command: /tp Multiports
+[13:07:03] [Server thread/INFO]: [ZVNexus: Teleported ZVNexus to Multiports]
+[13:07:16] [Server thread/INFO]: ZVNexus issued server command: /gamerule keepInventory
+[13:07:41] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[13:08:21] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[13:08:41] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 17 Entities![m
+[13:11:48] [Server thread/INFO]: Multiports has made the advancement [Take Aim]
+[13:15:13] [Server thread/INFO]: Multiports issued server command: /kill
+[13:15:17] [Server thread/INFO]: Multiports issued server command: /kill Multiports
+[13:15:17] [Server thread/INFO]: Multiports fell out of the world
+[13:15:17] [Server thread/INFO]: [Multiports: Killed Multiports]
+[13:15:22] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[13:15:27] [Server thread/INFO]: ZVNexus issued server command: /kill
+[13:15:30] [Server thread/INFO]: ZVNexus issued server command: /kill ZV
+[13:15:33] [Server thread/INFO]: ZVNexus issued server command: /kill ZVNexus
+[13:15:33] [Server thread/INFO]: ZVNexus fell out of the world
+[13:15:33] [Server thread/INFO]: [ZVNexus: Killed ZVNexus]
+[13:16:02] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[13:16:22] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 3 Entities![m
+[13:16:29] [Server thread/WARN]: Horse moved wrongly!
+[13:16:29] [Server thread/WARN]: Horse moved wrongly!
+[13:16:29] [Server thread/WARN]: Horse moved wrongly!
+[13:16:29] [Server thread/WARN]: Horse moved wrongly!
+[13:16:30] [Server thread/WARN]: Horse moved wrongly!
+[13:16:30] [Server thread/WARN]: Horse moved wrongly!
+[13:16:30] [Server thread/WARN]: Horse moved wrongly!
+[13:21:17] [Server thread/INFO]: Multiports issued server command: /tp zvnexus
+[13:21:17] [Server thread/INFO]: [Multiports: Teleported Multiports to ZVNexus]
+[13:21:30] [Server thread/INFO]: ZVNexus was shot by Multiports
+[13:21:37] [Server thread/INFO]: ZVNexus issued server command: /tp Multiports
+[13:21:37] [Server thread/INFO]: [ZVNexus: Teleported ZVNexus to Multiports]
+[13:21:45] [Server thread/INFO]: ZVNexus was shot by Multiports
+[13:21:51] [Server thread/INFO]: ZVNexus issued server command: /tp Multiports
+[13:21:51] [Server thread/INFO]: [ZVNexus: Teleported ZVNexus to Multiports]
+[13:23:03] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[13:23:43] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[13:24:03] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 44 Entities![m
+[13:28:54] [Server thread/WARN]: Horse moved wrongly!
+[13:28:55] [Server thread/WARN]: Horse moved wrongly!
+[13:28:55] [Server thread/WARN]: Horse moved wrongly!
+[13:28:56] [Server thread/WARN]: Horse moved wrongly!
+[13:28:56] [Server thread/WARN]: Horse moved wrongly!
+[13:28:58] [Server thread/WARN]: Horse moved wrongly!
+[13:28:58] [Server thread/WARN]: Horse moved wrongly!
+[13:29:19] [Server thread/WARN]: Horse moved wrongly!
+[13:29:19] [Server thread/WARN]: Horse moved wrongly!
+[13:29:19] [Server thread/WARN]: Horse moved wrongly!
+[13:30:43] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[13:31:05] [Server thread/WARN]: Horse moved wrongly!
+[13:31:06] [Server thread/WARN]: Horse moved wrongly!
+[13:31:06] [Server thread/WARN]: Horse moved wrongly!
+[13:31:07] [Server thread/WARN]: Horse moved wrongly!
+[13:31:08] [Server thread/WARN]: Horse moved wrongly!
+[13:31:08] [Server thread/WARN]: Horse moved wrongly!
+[13:31:23] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[13:31:43] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 51 Entities![m
+[13:32:16] [Server thread/WARN]: Horse moved wrongly!
+[13:32:17] [Server thread/WARN]: Horse moved wrongly!
+[13:32:17] [Server thread/WARN]: Horse moved wrongly!
+[13:32:18] [Server thread/WARN]: Horse moved wrongly!
+[13:32:19] [Server thread/WARN]: Horse moved wrongly!
+[13:34:46] [Server thread/INFO]: Multiports issued server command: /tp zvnexus
+[13:34:46] [Server thread/INFO]: [Multiports: Teleported Multiports to ZVNexus]
+[13:38:24] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[13:39:04] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[13:39:24] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 35 Entities![m
+[13:42:59] [Server thread/INFO]: Multiports issued server command: /kill Multiports
+[13:42:59] [Server thread/INFO]: Multiports fell out of the world
+[13:42:59] [Server thread/INFO]: [Multiports: Killed Multiports]
+[13:43:32] [Server thread/WARN]: ZVNexus was kicked for floating too long!
+[13:43:32] [Server thread/INFO]: ZVNexus lost connection: Flying is not enabled on this server
+[13:43:32] [Server thread/INFO]: ZVNexus left the game
+[13:43:32] [Server thread/WARN]: handleDisconnection() called twice
+[13:43:36] [User Authenticator #3/INFO]: UUID of player ZVNexus is 19c65482-042b-4370-8483-d9010da8661b
+[13:43:36] [Server thread/INFO]: ZVNexus[/98.182.49.90:51071] logged in with entity id 42946 at ([world]583.8975226755009, 73.77160001635552, -1028.9461864222583)
+[13:43:57] [Server thread/WARN]: Horse moved wrongly!
+[13:45:56] [Server thread/WARN]: Horse moved wrongly!
+[13:45:56] [Server thread/WARN]: Horse moved wrongly!
+[13:46:07] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[13:46:39] [Server thread/INFO]: Multiports issued server command: /tp zvnexus
+[13:46:39] [Server thread/INFO]: [Multiports: Teleported Multiports to ZVNexus]
+[13:46:47] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[13:47:08] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 25 Entities![m
+[13:48:50] [Server thread/WARN]: Horse moved wrongly!
+[13:50:31] [Server thread/WARN]: Horse moved wrongly!
+[13:53:53] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[13:54:33] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[13:54:53] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 41 Entities![m
+[13:59:46] [Server thread/INFO]: Multiports issued server command: /kill
+[13:59:53] [Server thread/INFO]: Multiports issued server command: /kill Multiports
+[13:59:53] [Server thread/INFO]: Multiports fell out of the world
+[13:59:53] [Server thread/INFO]: [Multiports: Killed Multiports]
+[14:01:35] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[14:02:15] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[14:02:35] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 5 Entities![m
+[14:03:12] [Server thread/WARN]: Horse moved wrongly!
+[14:05:21] [Server thread/WARN]: Horse moved wrongly!
+[14:05:21] [Server thread/WARN]: Horse moved wrongly!
+[14:05:21] [Server thread/WARN]: Horse moved wrongly!
+[14:05:22] [Server thread/WARN]: Horse moved wrongly!
+[14:05:22] [Server thread/WARN]: Horse moved wrongly!
+[14:05:22] [Server thread/WARN]: Horse moved wrongly!
+[14:05:22] [Server thread/WARN]: Horse moved wrongly!
+[14:05:22] [Server thread/WARN]: Horse moved wrongly!
+[14:05:22] [Server thread/WARN]: Horse moved wrongly!
+[14:05:22] [Server thread/WARN]: Horse moved wrongly!
+[14:05:22] [Server thread/WARN]: Horse moved wrongly!
+[14:05:22] [Server thread/WARN]: Horse moved wrongly!
+[14:05:22] [Server thread/WARN]: Horse moved wrongly!
+[14:05:22] [Server thread/WARN]: Horse moved wrongly!
+[14:05:22] [Server thread/WARN]: Horse moved wrongly!
+[14:05:22] [Server thread/WARN]: Horse moved wrongly!
+[14:06:00] [Server thread/WARN]: Horse moved wrongly!
+[14:06:00] [Server thread/WARN]: Horse moved wrongly!
+[14:07:01] [Server thread/INFO]: Multiports issued server command: /tp zvnexus
+[14:07:01] [Server thread/INFO]: [Multiports: Teleported Multiports to ZVNexus]
+[14:07:18] [Server thread/INFO]: Multiports has made the advancement [Best Friends Forever]
+[14:07:44] [Server thread/WARN]: Horse moved wrongly!
+[14:08:09] [Server thread/INFO]: ZVNexus issued server command: /tp Multiports
+[14:08:09] [Server thread/INFO]: [ZVNexus: Teleported ZVNexus to Multiports]
+[14:08:38] [Server thread/WARN]: Horse moved wrongly!
+[14:08:38] [Server thread/WARN]: Horse moved wrongly!
+[14:08:38] [Server thread/WARN]: Horse moved wrongly!
+[14:08:38] [Server thread/WARN]: Horse moved wrongly!
+[14:08:38] [Server thread/WARN]: Horse moved wrongly!
+[14:08:40] [Server thread/WARN]: Horse moved wrongly!
+[14:08:41] [Server thread/WARN]: Horse moved wrongly!
+[14:08:41] [Server thread/WARN]: Horse moved wrongly!
+[14:08:45] [Server thread/WARN]: Horse moved wrongly!
+[14:09:03] [Server thread/WARN]: Horse moved wrongly!
+[14:09:18] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[14:09:26] [Server thread/WARN]: Horse moved wrongly!
+[14:09:36] [Server thread/WARN]: Horse moved wrongly!
+[14:09:41] [Server thread/WARN]: Horse moved wrongly!
+[14:09:59] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[14:10:19] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 27 Entities![m
+[14:10:25] [Server thread/WARN]: Horse moved wrongly!
+[14:14:46] [Server thread/INFO]: Multiports lost connection: Disconnected
+[14:14:47] [Server thread/INFO]: Multiports left the game
+[14:14:49] [User Authenticator #4/INFO]: UUID of player Multiports is 959b5ef0-622e-49b0-aac6-5a3e87f63e27
+[14:14:49] [Server thread/INFO]: Multiports[/68.9.212.176:49207] logged in with entity id 71238 at ([world]35.887336949243874, 64.24813599859094, -387.8960414735108)
+[14:15:19] [Server thread/WARN]: Horse moved wrongly!
+[14:15:19] [Server thread/WARN]: Horse moved wrongly!
+[14:15:19] [Server thread/WARN]: Horse moved wrongly!
+[14:15:38] [Server thread/WARN]: Horse moved wrongly!
+[14:16:01] [Server thread/WARN]: Horse moved wrongly!
+[14:16:30] [Server thread/WARN]: Horse moved wrongly!
+[14:16:30] [Server thread/WARN]: Horse moved wrongly!
+[14:16:30] [Server thread/WARN]: Horse moved wrongly!
+[14:16:31] [Server thread/WARN]: Horse moved wrongly!
+[14:16:31] [Server thread/WARN]: Horse moved wrongly!
+[14:16:31] [Server thread/WARN]: Horse moved wrongly!
+[14:16:32] [Server thread/WARN]: Horse moved wrongly!
+[14:16:32] [Server thread/WARN]: Horse moved wrongly!
+[14:16:33] [Server thread/WARN]: Horse moved wrongly!
+[14:16:34] [Server thread/WARN]: Horse moved wrongly!
+[14:16:59] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[14:17:39] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[14:17:51] [Server thread/WARN]: Horse moved wrongly!
+[14:17:51] [Server thread/WARN]: Horse moved wrongly!
+[14:17:59] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 4 Entities![m
+[14:18:07] [Server thread/WARN]: Horse moved wrongly!
+[14:19:42] [Server thread/INFO]: ZVNexus was slain by Multiports using [EB 300]
+[14:21:37] [Server thread/INFO]: Multiports issued server command: /kick ZVNexus
+[14:21:37] [Server thread/INFO]: ZVNexus lost connection: Kicked by an operator
+[14:21:37] [Server thread/INFO]: ZVNexus left the game
+[14:21:37] [Server thread/INFO]: [Multiports: Kicked ZVNexus: Kicked by an operator]
+[14:21:37] [Server thread/WARN]: handleDisconnection() called twice
+[14:21:40] [User Authenticator #5/INFO]: UUID of player ZVNexus is 19c65482-042b-4370-8483-d9010da8661b
+[14:21:40] [Server thread/INFO]: ZVNexus[/98.182.49.90:52196] logged in with entity id 75036 at ([world]9.890898770590848, 71.0, 0.580045269144287)
+[14:23:34] [Server thread/INFO]: Multiports issued server command: /tp zvnexus
+[14:23:34] [Server thread/INFO]: [Multiports: Teleported Multiports to ZVNexus]
+[14:24:09] [Server thread/INFO]: ZVNexus burned to death
+[14:24:15] [Server thread/INFO]: Multiports lost connection: Disconnected
+[14:24:15] [Server thread/INFO]: Multiports left the game
+[14:24:25] [Server thread/INFO]: ZVNexus lost connection: Disconnected
+[14:24:26] [Server thread/INFO]: ZVNexus left the game
+[14:24:40] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[14:25:20] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[14:25:40] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[14:32:20] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[14:33:00] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[14:33:20] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[14:37:51] [User Authenticator #6/INFO]: UUID of player ZVNexus is 19c65482-042b-4370-8483-d9010da8661b
+[14:37:52] [Server thread/INFO]: ZVNexus[/98.182.49.90:52752] logged in with entity id 75897 at ([world]92.93163295672275, 92.0, -31.043422563809994)
+[14:40:01] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[14:40:41] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[14:41:01] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
+[14:41:12] [Server thread/INFO]: ZVNexus has reached the goal [Hired Help]
+[14:41:47] [Server thread/INFO]: ZVNexus lost connection: Disconnected
+[14:41:48] [Server thread/INFO]: ZVNexus left the game
+[14:47:41] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[14:48:22] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[14:48:42] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[14:55:22] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[14:56:02] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[14:56:22] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
+[15:03:03] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[15:03:43] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[15:04:03] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[15:10:43] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[15:11:23] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[15:11:43] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[15:18:24] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[15:19:04] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[15:19:24] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[15:26:04] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[15:26:44] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[15:27:04] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[15:33:45] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[15:34:25] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[15:34:45] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[15:41:25] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[15:42:05] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[15:42:25] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[15:49:06] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[15:49:46] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[15:50:06] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[15:56:47] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[15:57:27] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[15:57:47] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[16:04:27] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[16:05:07] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[16:05:27] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[16:12:08] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[16:12:48] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[16:13:08] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[16:19:48] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[16:20:28] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[16:20:48] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[16:27:28] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[16:28:09] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[16:28:29] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[16:35:09] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[16:35:49] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[16:36:09] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[16:42:49] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[16:43:29] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[16:43:49] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[16:50:30] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[16:51:10] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[16:51:30] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[16:58:10] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[16:58:50] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[16:59:10] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[17:05:51] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[17:06:31] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[17:06:51] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[17:13:31] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[17:14:11] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[17:14:31] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[17:21:12] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[17:21:52] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[17:22:12] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[17:28:52] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[17:29:32] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[17:29:52] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[17:36:33] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[17:37:13] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[17:37:33] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[17:44:13] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[17:44:53] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[17:45:13] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[17:51:54] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[17:52:34] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[17:52:54] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[17:59:34] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[18:00:14] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[18:00:34] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[18:07:14] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[18:07:54] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[18:08:14] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[18:14:54] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[18:15:34] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[18:15:54] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[18:22:35] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[18:23:15] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[18:23:35] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[18:30:15] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[18:30:55] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[18:31:15] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[18:37:56] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[18:38:36] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[18:38:56] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[18:41:27] [Server thread/INFO]: [Server] "And thus, there was light."
+[18:45:36] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[18:45:50] [User Authenticator #7/INFO]: UUID of player ZVNexus is 19c65482-042b-4370-8483-d9010da8661b
+[18:45:51] [Server thread/INFO]: ZVNexus[/98.182.49.90:60386] logged in with entity id 76585 at ([world]99.43737492297788, 85.0, -30.03213820252637)
+[18:46:16] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[18:46:36] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[18:46:38] [User Authenticator #8/INFO]: UUID of player Multiports is 959b5ef0-622e-49b0-aac6-5a3e87f63e27
+[18:46:38] [Server thread/INFO]: Multiports[/68.9.212.176:51593] logged in with entity id 76679 at ([world]-24.915237830850767, 65.0, -4.221968921831067)
+[18:47:22] [Server thread/INFO]: Multiports issued server command: /kick zvnexus
+[18:47:22] [Server thread/INFO]: ZVNexus lost connection: Kicked by an operator
+[18:47:22] [Server thread/INFO]: ZVNexus left the game
+[18:47:22] [Server thread/INFO]: [Multiports: Kicked ZVNexus: Kicked by an operator]
+[18:47:22] [Server thread/WARN]: handleDisconnection() called twice
+[18:47:23] [Server thread/INFO]: Multiports issued server command: /xp add Multiports 999999999
+[18:47:23] [Server thread/INFO]: [Multiports: Gave 999999999 experience points to Multiports]
+[18:47:25] [User Authenticator #9/INFO]: UUID of player ZVNexus is 19c65482-042b-4370-8483-d9010da8661b
+[18:47:25] [Server thread/INFO]: ZVNexus[/98.182.49.90:60431] logged in with entity id 76912 at ([world]7.894814197269275, 71.0, -7.201324453876187)
+[18:47:51] [Async Chat Thread - #0/INFO]: <Multiports> lesser race @mexico[m
+[18:51:19] [Server thread/INFO]: Multiports issued server command: /kick zvnexus
+[18:51:19] [Server thread/INFO]: ZVNexus lost connection: Kicked by an operator
+[18:51:19] [Server thread/INFO]: ZVNexus left the game
+[18:51:19] [Server thread/INFO]: [Multiports: Kicked ZVNexus: Kicked by an operator]
+[18:51:19] [Server thread/WARN]: handleDisconnection() called twice
+[18:51:20] [Server thread/INFO]: Multiports issued server command: /gamerule randomtickspeed 100
+[18:51:22] [User Authenticator #10/INFO]: UUID of player ZVNexus is 19c65482-042b-4370-8483-d9010da8661b
+[18:51:22] [Server thread/INFO]: ZVNexus[/98.182.49.90:60539] logged in with entity id 77554 at ([world]97.8573910065089, 85.0, -36.95889991240052)
+[18:53:17] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[18:53:57] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[18:54:17] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
+[19:00:41] [Server thread/INFO]: Multiports issued server command: /kick ZVNexus
+[19:00:41] [Server thread/INFO]: ZVNexus lost connection: Kicked by an operator
+[19:00:41] [Server thread/INFO]: ZVNexus left the game
+[19:00:41] [Server thread/INFO]: [Multiports: Kicked ZVNexus: Kicked by an operator]
+[19:00:41] [Server thread/WARN]: handleDisconnection() called twice
+[19:00:43] [Server thread/INFO]: Multiports issued server command: //gamerule randomTickSpeed 100
+[19:00:43] [Server thread/INFO]: Multiports issued server command: /gamerule randomTickSpeed 100
+[19:00:43] [Server thread/INFO]: [Multiports: Gamerule randomTickSpeed is now set to: 100]
+[19:00:45] [User Authenticator #11/INFO]: UUID of player ZVNexus is 19c65482-042b-4370-8483-d9010da8661b
+[19:00:45] [Server thread/INFO]: ZVNexus[/98.182.49.90:60820] logged in with entity id 79729 at ([world]98.32575448908642, 85.0, -31.832605469956988)
+[19:00:57] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[19:01:04] [Server thread/INFO]: ZVNexus was slain by Multiports using [EB 300]
+[19:01:37] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[19:01:57] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 7 Entities![m
+[19:03:10] [Async Chat Thread - #1/INFO]: <ZVNexus> the cotton pickers strike again![m
+[19:03:12] [Async Chat Thread - #1/INFO]: <Multiports> .;.[m
+[19:03:16] [Async Chat Thread - #1/INFO]: <Multiports> its a bad crop year boys[m
+[19:03:26] [Async Chat Thread - #1/INFO]: <Multiports> the inferiors wont fucking work[m
+[19:07:18] [Server thread/INFO]: ZVNexus has made the advancement [Take Aim]
+[19:08:38] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[19:09:18] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[19:09:38] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 30 Entities![m
+[19:11:08] [Server thread/INFO]: ZVNexus was burnt to a crisp whilst fighting Multiports
+[19:12:27] [Server thread/INFO]: ZVNexus fell from a high place
+[19:15:41] [Server thread/INFO]: ZVNexus was slain by Multiports using [EB 300]
+[19:15:55] [Server thread/INFO]: Multiports was shot by ZVNexus
+[19:16:18] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[19:16:58] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[19:17:18] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 31 Entities![m
+[19:17:22] [Server thread/INFO]: Multiports was shot by ZVNexus
+[19:20:25] [Server thread/INFO]: ZVNexus fell from a high place
+[19:20:58] [Async Chat Thread - #2/INFO]: <Multiports> nigger[m
+[19:21:00] [Async Chat Thread - #2/INFO]: <ZVNexus> jew[m
+[19:21:06] [Async Chat Thread - #2/INFO]: <Multiports> ew[m
+[19:22:55] [Server thread/INFO]: ZVNexus was slain by Multiports using [EB 300]
+[19:23:31] [Server thread/INFO]: ZVNexus fell from a high place
+[19:23:58] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[19:23:59] [Async Chat Thread - #3/INFO]: <ZVNexus> kasimi-sama![m
+[19:24:19] [Async Chat Thread - #3/INFO]: <ZVNexus> onii-chan![m
+[19:24:38] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[19:24:58] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 15 Entities![m
+[19:26:00] [Server thread/INFO]: ZVNexus fell from a high place
+[19:27:20] [Async Chat Thread - #4/INFO]: <ZVNexus> ighhendjrhgbuni1njhgjgib`ri9ubgi9uwb8uiyrewv 8y6bvei9ufd8ydyhy97rwugtidfopvqyhvd8yvgfdwyi8veyd8vc1er7tfrevdwy9gf6g798hgy7689dfg8y6tfwvg[m
+[19:28:30] [Server thread/INFO]: Multiports issued server command: /tp ZVNexus
+[19:28:30] [Server thread/INFO]: [Multiports: Teleported Multiports to ZVNexus]
+[19:30:26] [Server thread/INFO]: ZVNexus was slain by Multiports using [EB 300]
+[19:31:13] [Server thread/INFO]: Multiports lost connection: Disconnected
+[19:31:13] [Server thread/INFO]: Multiports left the game
+[19:31:39] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[19:32:19] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[19:32:39] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
+[19:39:19] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[19:39:59] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[19:40:19] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[19:46:59] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[19:47:39] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[19:47:59] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 3 Entities![m
+[19:49:23] [Server thread/INFO]: ZVNexus lost connection: Disconnected
+[19:49:23] [Server thread/INFO]: ZVNexus left the game
+[19:52:16] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[19:52:19] [Server thread/INFO]: Unknown command
+[19:52:19] [Server thread/INFO]: /tp<--[HERE]
+[19:52:21] [Server thread/INFO]: An entity is required to run this command here
+[19:54:40] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[19:55:20] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[19:55:40] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[20:02:20] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[20:03:00] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[20:03:09] [Server thread/INFO]: Stopping the server
+[20:03:09] [Server thread/INFO]: Stopping server
+[20:03:09] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.2.2-SNAPSHOT;8eeab68
+[20:03:09] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[20:03:09] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1.9;caf0ad9
+[20:03:09] [Server thread/INFO]: [AutomaticInventory] Disabling AutomaticInventory v2.8.4
+[20:03:09] [Server thread/INFO]: [AutomaticInventory] AutomaticInventory disabled.
+[20:03:09] [Server thread/INFO]: [ClearLag] Disabling ClearLag v2.9.7
+[20:03:09] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
+[20:03:09] [Server thread/INFO]: Saving players
+[20:03:09] [Server thread/INFO]: Saving worlds
+[20:03:09] [Server thread/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end
+[20:03:09] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[20:03:09] [Server thread/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
