@@ -1,0 +1,24 @@
+# 
+#  ExampleDestination:
+#    world: it will be the world name
+#    pos:
+#      X:
+#      Y:
+#      Z:
+
+endportal:
+  world: world
+  pos:
+    X: -1396.3965132250376
+    Y: 39.0
+    Z: -1726.320390540703
+    pitch: 27.600132
+    yaw: 177.75806
+home:
+  world: world
+  pos:
+    X: 103.47713813666124
+    Y: 85.0
+    Z: -41.71137646555084
+    pitch: -1.6503792
+    yaw: -359.25494

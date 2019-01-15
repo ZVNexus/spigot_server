@@ -1,14 +1,1 @@
-[
-  {
-    "uuid": "959b5ef0-622e-49b0-aac6-5a3e87f63e27",
-    "name": "Multiports",
-    "level": 4,
-    "bypassesPlayerLimit": false
-  },
-  {
-    "uuid": "19c65482-042b-4370-8483-d9010da8661b",
-    "name": "ZVNexus",
-    "level": 4,
-    "bypassesPlayerLimit": false
-  }
-]
+[]
