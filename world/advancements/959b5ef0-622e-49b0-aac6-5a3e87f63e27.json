@@ -367,6 +367,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_double_plant": "2019-01-21 13:37:57 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2019-01-01 12:05:16 -0500"
@@ -510,8 +516,8 @@
       "minecraft:magma_cube": "2019-01-07 10:23:15 -0500",
       "minecraft:spider": "2019-01-02 16:00:16 -0500",
       "minecraft:zombie": "2019-01-01 12:45:53 -0500",
-      "minecraft:creeper": "2019-01-02 16:14:57 -0500",
       "minecraft:drowned": "2019-01-13 15:13:49 -0500",
+      "minecraft:creeper": "2019-01-02 16:14:57 -0500",
       "minecraft:zombie_villager": "2019-01-12 13:08:50 -0500"
     },
     "done": false
@@ -714,6 +720,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2019-01-21 13:06:13 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_red_flower": "2019-01-01 12:34:55 -0500"
@@ -783,6 +795,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-01-01 12:45:38 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2019-01-21 13:06:13 -0500"
     },
     "done": true
   },
@@ -950,11 +968,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:cold_ocean": "2019-01-13 15:05:19 -0500",
       "minecraft:jungle_edge": "2019-01-03 17:10:49 -0500",
+      "minecraft:cold_ocean": "2019-01-13 15:05:19 -0500",
       "minecraft:snowy_mountains": "2019-01-13 14:51:41 -0500",
-      "minecraft:mountains": "2019-01-07 10:41:59 -0500",
       "minecraft:forest": "2019-01-01 12:06:04 -0500",
+      "minecraft:mountains": "2019-01-07 10:41:59 -0500",
       "minecraft:taiga": "2019-01-12 13:46:40 -0500",
       "minecraft:desert_hills": "2019-01-12 12:59:27 -0500",
       "minecraft:giant_tree_taiga": "2019-01-12 13:59:34 -0500",
@@ -972,8 +990,8 @@
       "minecraft:savanna_plateau": "2019-01-12 13:37:30 -0500",
       "minecraft:beach": "2019-01-07 10:55:51 -0500",
       "minecraft:dark_forest": "2019-01-07 10:53:13 -0500",
-      "minecraft:lukewarm_ocean": "2019-01-07 10:56:06 -0500",
       "minecraft:river": "2019-01-07 10:42:04 -0500",
+      "minecraft:lukewarm_ocean": "2019-01-07 10:56:06 -0500",
       "minecraft:snowy_taiga": "2019-01-13 14:54:15 -0500",
       "minecraft:birch_forest_hills": "2019-01-03 16:37:46 -0500",
       "minecraft:wooded_mountains": "2019-01-12 13:36:35 -0500",
@@ -1006,6 +1024,12 @@
   "minecraft:recipes/misc/lapis_from_smelting": {
     "criteria": {
       "has_lapis_ore": "2019-01-16 10:13:02 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2019-01-21 13:06:13 -0500"
     },
     "done": true
   },
@@ -1556,6 +1580,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/cactus_green": {
+    "criteria": {
+      "has_cactus": "2019-01-20 11:12:51 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2019-01-02 16:19:39 -0500"
@@ -1700,6 +1730,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond_from_smelting": {
+    "criteria": {
+      "has_diamond_ore": "2019-01-21 13:09:59 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2019-01-01 12:06:58 -0500"
@@ -1769,6 +1805,12 @@
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-01-03 16:28:49 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2019-01-23 13:17:33 -0500"
     },
     "done": true
   },
@@ -2165,6 +2207,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2019-01-02 16:20:59 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2019-01-23 13:13:58 -0500"
     },
     "done": true
   },
